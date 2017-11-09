@@ -6,5 +6,6 @@ main(){
     for(in i=0;i<10;i++){
         vactor[i]=vector[i];
     }
-    printf("h");
+
+    printf("f")
 }
